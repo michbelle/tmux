@@ -5,4 +5,4 @@ dowload it on ~/ ,
 exec  
 ` tmux source-file .tmux.conf `  
 Done  
-now split with `Ctrl-b + h/v ` and mouse compatibility
+now split with `Ctrl-b + h/v ` and mouse scrolling
